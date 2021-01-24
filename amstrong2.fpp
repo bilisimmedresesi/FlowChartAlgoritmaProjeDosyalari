@@ -1,5 +1,5 @@
-31       	 <--SHAPES
-34       	 <--LINES
+32       	 <--SHAPES
+35       	 <--LINES
 id1
 2       	 <--TYPE
 944       	 <--LEFT
@@ -92,8 +92,8 @@ num
 
 id8
 91       	 <--TYPE
-1129       	 <--LEFT
-788       	 <--TOP
+1133       	 <--LEFT
+786       	 <--TOP
 292       	 <--WIDTH
 40       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
@@ -392,8 +392,8 @@ INTERSECTION
 
 id17
 0       	 <--TYPE
-1201       	 <--LEFT
-859       	 <--TOP
+1205       	 <--LEFT
+841       	 <--TOP
 148       	 <--WIDTH
 30       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
@@ -407,8 +407,8 @@ isContinue
 
 id18
 92       	 <--TYPE
-1114       	 <--LEFT
-918       	 <--TOP
+1119       	 <--LEFT
+939       	 <--TOP
 320       	 <--WIDTH
 50       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
@@ -422,8 +422,8 @@ isContinue
 
 id22
 3       	 <--TYPE
-1502       	 <--LEFT
-938       	 <--TOP
+1504       	 <--LEFT
+957       	 <--TOP
 10       	 <--WIDTH
 10       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
@@ -438,7 +438,7 @@ INTERSECTION
 id26
 3       	 <--TYPE
 250       	 <--LEFT
-938       	 <--TOP
+960       	 <--TOP
 10       	 <--WIDTH
 10       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
@@ -452,7 +452,7 @@ INTERSECTION
 
 id27
 3       	 <--TYPE
-252       	 <--LEFT
+251       	 <--LEFT
 99       	 <--TOP
 10       	 <--WIDTH
 10       	 <--HEIGHT
@@ -464,6 +464,21 @@ id27
 INTERSECTION
 
 
+
+id3
+91       	 <--TYPE
+1133       	 <--LEFT
+886       	 <--TOP
+292       	 <--WIDTH
+40       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+INPUT
+Çýkmak için [ H / h]
+isContinue
 
   
 ---- LINES ---- from,to ----
@@ -551,9 +566,6 @@ reserved 1
 id8,id17
 reserved 1
 
-id17,id18
-reserved 1
-
 id18,id22
 reserved 1
 EVET
@@ -567,5 +579,11 @@ id26,id27
 reserved 1
 
 id27,id19
+reserved 1
+
+id17,id3
+reserved 1
+
+id3,id18
 reserved 1
 
